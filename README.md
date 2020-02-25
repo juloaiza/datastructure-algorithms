@@ -1,3 +1,3 @@
 # Algorithms and Data Structure
 
-This repository contains algorithms and data structures in Javascript and Python
+This repository contains algorithms and data structures implemented in Javascript and Python
